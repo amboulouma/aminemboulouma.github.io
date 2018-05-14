@@ -1,7 +1,7 @@
 # Amine M. Boulouma
 
-A personal portfolio containing all my projects and repos
-Website : https://amine.boulouma.com
+A personal portfolio containing all my projects and repos </br>
+Website : https://amine.boulouma.com</br>
 Email : amine (at) boulouma (dot) com
 
 ## Popular Projects
